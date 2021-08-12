@@ -54,9 +54,6 @@ class Neural_Network(object):
         else:
             print("La fleur est ROUGE ! \n")
 
-
-
-
 NN = Neural_Network()
 
 for i in range (30000):
